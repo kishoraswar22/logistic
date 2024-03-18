@@ -97,10 +97,10 @@
       <id>devops_repo</id>
       <url>http://3.108.67.230:8081/repository/devops_repo</url>
    </snapshotRepository>
-     <Repository>
+     <repository>
       <id>devops_repo</id>
       <url>http://3.108.67.230:8081/repository/devops_repo</url>
-   </Repository>
+   </repository>
 </distributionManagement>
 
 </project>
